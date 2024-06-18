@@ -13,7 +13,7 @@
       </p>
       <br>
       <b>
-        ~ powered by coffee & code ~
+        ~ powered by lots a cups of ☕️ ~
       </b>
       <br>
   </samp>
