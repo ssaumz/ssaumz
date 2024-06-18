@@ -12,7 +12,7 @@
     </b>
     <br>
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+seek+interest+in+%26+data science+web development+and+AWS.">
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+interested+in+Data+Science%2C+Web+Development+%26+AWS."
       <br>
       <b>
         ~ Saumya Poojari ~
