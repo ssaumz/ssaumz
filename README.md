@@ -8,11 +8,11 @@
     <b>
       Hello There
       <br>
-      I'm Saumya, a Student, and data science enthusiast.
+      I'm Saumya, pursuing Btech Computer Engineering in St. Francis Institute of Technology, Univeristy of Mumbai.
     </b>
     <br>
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+code+funtional+%26+aesthetic+programs.">
+      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+seek+interest+in+%26+data science+web development+and+AWS.">
       <br>
       <b>
         ~ Saumya Poojari ~
