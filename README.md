@@ -1,7 +1,3 @@
-<!-- yoinked from:https://github.com/rxyhn -->
-
-<!-- Inspiration: https://github.com/owl4ce -->
-
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp><br>
