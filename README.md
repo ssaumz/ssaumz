@@ -11,8 +11,10 @@
       I'm Saumya, pursuing Btech Computer Engineering in St. Francis Institute of Technology, Univeristy of Mumbai.
     </b>
     <br>
+    <p align="center">
     <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=14&pause=1000&color=924155&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I'm+interested+in+Data+Science%2C+Web+Development+%26+AWS."
+      </p>
       <br>
       <b>
         ~ Saumya Poojari ~
