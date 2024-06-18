@@ -17,7 +17,7 @@
       </p>
       <br>
       <b>
-        ~ Saumya Poojari ~
+        ~ powered by coffee & code ~
       </b>
       <br>
   </samp>
