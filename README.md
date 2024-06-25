@@ -4,7 +4,7 @@
     <b>
       Hello There :)
       <br>
-      I'm Saumya, pursuing Btech Computer Engineering at St. Francis Institute of Technology, Univeristy of Mumbai.
+      I'm Saumya, pursuing Btech Computer Engineering at St. Francis Institute of Technology, University of Mumbai.
     </b>
     <br>
     <p align="center">
