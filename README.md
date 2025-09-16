@@ -4,7 +4,7 @@
     <b>
       Hello There :)
       <br>
-      I'm Saumya, pursuing BE Computer Engineering at St. Francis Institute of Technology, University of Mumbai.
+      I'm Saumya, pursuing MITA at Rutgers Business School.
     </b>
     <br>
     <p align="center">
